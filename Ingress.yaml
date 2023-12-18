@@ -9,5 +9,5 @@ spec:
     http:
       paths:
       - backend:
-          serviceName: ingress-nginx 
+          serviceName: ingress-nginx-controller 
           servicePort: 80
