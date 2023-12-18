@@ -9,5 +9,5 @@ spec:
     http:
       paths:
       - backend:
-          serviceName: ingress-nginx-controller-7c6974c4d8-6shf5 
+          serviceName: ingress-nginx-controller-admission 
           servicePort: 443
